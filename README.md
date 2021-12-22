@@ -1,10 +1,10 @@
+<div>
+### Hi there 👋, my name is Pedro Bigas, nice to meet you! 
 
-### Hi there 👋, my name is Pedro Bigas, nice to meet you!
 - 🔭 I’m currently working on CRAISA
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
-<div>
-<img src="./profile.png" width="250px">
+  <img src="./profile.png" width="200px">
 </div>
 <div align="center">
   <br>
@@ -22,3 +22,4 @@
 
     
 ![Snake animation](https://github.com/PedroBigas/PedroBigas/blob/output/github-contribution-grid-snake.svg)
+![profile](https://user-images.githubusercontent.com/91469236/147121621-799831ac-33c2-4041-a9e4-0135ebf9db4a.png)
