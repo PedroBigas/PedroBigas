@@ -14,7 +14,7 @@
   
   <hr>
   <div align="center">
-    <img src="./profile.png" width="200px">
+    <img src="./profile.png" width="150px">
   </div>
   <div align="center"> 
    <a href="https://www.linkedin.com/in/pedro-bigas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
