@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on CRAISA
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
-
+<img src="./profile.png">
 <br>
 
 <div align="center">
