@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
 <div>
-<img src="./profile.png" width="300px">
+<img src="./profile.png" width="250px">
 </div>
 <div align="center">
   <br>
