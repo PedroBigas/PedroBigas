@@ -1,11 +1,13 @@
+
 ### Hi there 👋, my name is Pedro Bigas, nice to meet you!
 - 🔭 I’m currently working on CRAISA
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
-<img src="./profile.png" width="30px">
-<br>
-
+<div>
+<img src="./profile.png" width="300px">
+</div>
 <div align="center">
+  <br>
   <a href="https://github.com/PedroBigas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBigas&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBigas&layout=compact&langs_count=7&theme=shades-of-purple"/>
