@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on CRAISA
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
- <div align="center">
-    <img src="./profile.png" width="200px">
-  </div>
+ 
 <div align="center">
   <br>
   <a href="https://github.com/PedroBigas">
@@ -15,7 +13,9 @@
 </div>
   
   <hr>
-  
+  <div align="center">
+    <img src="./profile.png" width="200px">
+  </div>
   <div align="center"> 
    <a href="https://www.linkedin.com/in/pedro-bigas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pedrobigas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
