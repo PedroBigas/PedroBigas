@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Pedro Bigas, nice to meet you! 
 
-- 🔭 I’m currently working on CRAISA
+- 🔭 I’m currently working on FênixME Soluções Inteligentes
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: pedrobcoding@gmail.com
  
