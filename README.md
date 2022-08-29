@@ -2,7 +2,7 @@
 ### Hi there 👋, my name is Pedro Bigas, nice to meet you! 
 
 - 🔭 I’m currently working on FênixME Soluções Inteligentes
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: pedrobcoding@gmail.com
  
 <div align="center">
