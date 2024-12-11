@@ -1,22 +1,33 @@
+# Hello, I'm Pedro Bigas! 👋
 
-### Hi there 👋, my name is Pedro Bigas, nice to meet you! 
+I am a developer transitioning careers and always looking to learn and grow. Currently, I am focused on studying **Java** and have experience with **HTML**, **JavaScript**, **Node.js**, and **React Native**.
 
-- 🔭 I’m currently working on Creation Websites
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: pedrobcoding@gmail.com
- 
-<div align="center">
-  <br>
-  <a href="https://github.com/PedroBigas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBigas&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBigas&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
-  
-  <hr>
-  <div align="center">
-    <img src="./profile.png" width="150px">
-  </div>
-  <div align="center"> 
-   <a href="https://www.linkedin.com/in/pedro-bigas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/pedrobigas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrobcoding@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
+
+## 🚀 My Technologies
+
+### Programming Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### Frameworks and Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+## 🌱 What I'm Currently Learning
+- **Java**: I am enhancing my skills with this powerful language.
+
+---
+
+## 📫 Where to Find Me
+- 📧 **Email**: [pedrobbigas@gmail.com](mailto:pedrobbigas@gmail.com)
+- 💼 **LinkedIn**: [Pedro Bigas](https://www.linkedin.com/in/pedro-bigas/)
+- 🖥️ **GitHub**: [PedroBigas](https://github.com/PedroBigas)
+
+---
+
+### 🎯 Goal
+My goal is to solidify my career in development, creating innovative solutions and positively impacting people through technology.
